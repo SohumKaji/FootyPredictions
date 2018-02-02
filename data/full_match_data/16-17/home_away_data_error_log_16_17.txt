@@ -1,0 +1,479 @@
+------------------------
+eng, 2016-2017
+------------------------
+
+Week1
+Everton vs TottenhamHotspur | Missing Val: yellowcards
+Burnley vs SwanseaCity | Missing Val: saves
+
+Week2
+ManchesterUnited vs Southampton | Missing Val: yellowcards
+SwanseaCity vs HullCity | Missing Val: yellowcards
+
+Week3
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+Burnley vs Arsenal | Missing Val: yellowcards
+
+Week8
+
+Week9
+LeicesterCity vs CrystalPalace | Missing Val: yellowcards
+
+Week10
+Southampton vs Chelsea | Missing Val: yellowcards
+
+Week11
+SwanseaCity vs ManchesterUnited | Missing Val: saves
+
+Week12
+WestBromwich vs Burnley | Missing Val: yellowcards
+
+Week13
+
+Week14
+
+Week15
+Arsenal vs StokeCity | Missing Val: yellowcards
+
+Week16
+WestBromwich vs SwanseaCity | Missing Val: yellowcards
+
+Week17
+
+Week18
+SwanseaCity vs WestHamUnited | Missing Val: yellowcards
+
+Week19
+
+Week20
+WestBromwich vs HullCity | Missing Val: yellowcards
+
+Week21
+Watford vs Middlesbrough | Missing Val: shotsongoal
+
+Week22
+
+Week23
+
+Week24
+
+Week25
+
+Week26
+LeicesterCity vs Liverpool | Missing Val: yellowcards
+
+Week27
+
+Week28
+
+Week29
+
+Week30
+
+Week31
+
+Week32
+
+Week33
+Watford vs SwanseaCity | Missing Val: yellowcards
+
+Week34
+
+Week35
+
+Week36
+LeicesterCity vs Watford | Missing Val: yellowcards
+SwanseaCity vs Everton | Missing Val: yellowcards
+
+Week37
+CrystalPalace vs HullCity | Missing Val: saves
+
+Week38
+HullCity vs TottenhamHotspur | Missing Val: yellowcards
+------------------------
+ita, 2016-2017
+------------------------
+
+Week1
+Genoa vs Cagliari | Missing Val: shotsongoal
+
+Week2
+
+Week3
+Palermo vs Napoli | Missing Val: yellowcards
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+
+Week8
+
+Week9
+
+Week10
+
+Week11
+
+Week12
+
+Week13
+
+Week14
+InterMilan vs Fiorentina | Missing Val: offtarget
+
+Week15
+
+Week16
+
+Week17
+ACMilan vs Atalanta | Missing Val: shotsongoal
+
+Week18
+
+Week19
+
+Week20
+
+Week21
+
+Week22
+InterMilan vs Pescara | Missing Val: shotsongoal
+Cagliari vs Bologna | Missing Val: tackles
+Cagliari vs Bologna | Missing Val: dribbles
+Cagliari vs Bologna | Missing Val: passsuccess
+
+Week23
+Chievo vs Udinese | Missing Val: shotsongoal
+
+Week24
+Crotone vs ASRoma | Missing Val: yellowcards
+
+Week25
+
+Week26
+Crotone vs Cagliari | Missing Val: saves
+
+Week27
+
+Week28
+
+Week29
+
+Week30
+
+Week31
+
+Week32
+
+Week33
+
+Week34
+Genoa vs Chievo | Missing Val: saves
+
+Week35
+
+Week36
+
+Week37
+
+Week38
+------------------------
+esp, 2016-2017
+------------------------
+
+Week1
+
+Week2
+
+Week3
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+
+Week8
+
+Week9
+RCDEspanyol vs Eibar | Missing Val: blocked
+
+Week10
+
+Week11
+
+Week12
+
+Week13
+
+Week14
+
+Week15
+
+Week16
+
+Week17
+
+Week18
+
+Week19
+
+Week20
+Leganes vs CeltaVigo | Missing Val: shotsongoal
+AthleticBilbao vs SportingGijon | Missing Val: shotsongoal
+
+Week21
+
+Week22
+
+Week23
+
+Week24
+
+Week25
+
+Week26
+
+Week27
+Malaga vs Alaves | Missing Val: blocked
+
+Week28
+
+Week29
+
+Week30
+
+Week31
+
+Week32
+
+Week33
+
+Week34
+FCBarcelona vs Osasuna | Missing Val: yellowcards
+Split Data Exception: AthleticBilbao vs RealBetis | ['Live', 'Odds', 'Analysis', 'Handicap', 'Over', 'Under', '1x2', 'Odds\nTime', 'Score', 'F/H', 'Handicap', 'Over/Under\nFirst', 'Odds', 'Live', 'Odds', 'First', 'Odds', 'Live', 'Odds\nEarly', '', '', 'HT', '0.92', '0.5', '0.96', '0.84', '0.5', '1.05', '1.11', '1/1.5', '0.76', '1.08', '1/1.5', '0.8\nFT', '0.98', '1/1.5', '0.9', '0.99', '1.5', '0.91', '0.93', '2.5/3', '0.93', '0.89', '2.5/3', '0.99\nLive', '', '', 'HT', '0.84', '0.5', '1.05', '0.89', '0.5', '1', '1.08', '1/1.5', '0.8', '1.16', '1/1.5', '0.74\nFT', '0.99', '1.5', '0.91', '0.9', '1/1.5', '1.01', '0.89', '2.5/3', '0.99', '1.07', '2.5/3', '0.83\n45', '0:0', 'HT', '0.97', '0.5', '0.92', '0.28', '0', '2.56', '1.16', '1/1.5', '0.74', '5.55', '0.5', '0.06\nFT', '0.95', '1/1.5', '0.94', '0.92', '0.5/1', '0.97', '1.07', '2.5/3', '0.83', '1.07', '1.5', '0.81\nHalf', 'Time', '0:0', 'FT', '0.92', '0.5/1', '0.97', '0.93', '0.5/1', '0.96', '1.07', '1.5', '0.81', '1.03', '1.5', '0.85\n51', '0:0', 'FT', '0.93', '0.5/1', '0.96', '1.07', '0.5/1', '0.82', '1.03', '1.5', '0.85', '0.96', '1/1.5', '0.92\n60', '1:0', 'FT', '0.94', '0.5', '0.95', '1.16', '0.5', '0.75', '1.08', '2/2.5', '0.8', '1.03', '2', '0.85\n62', '2:0', 'FT', '1.16', '0.5', '0.75', '0.85', '0/0.5', '1.04', '0.75', '2.5/3', '1.14', '0.73', '2.5/3', '1.17\n90', '2:1', 'FT', '0.85', '0/0.5', '1.04', '0.32', '0', '2.32', '0.8', '3.5/4', '1.08', '5.26', '3.5', '0.08']
+Check Data Exception: AthleticBilbao vs RealBetis | [<selenium.webdriver.remote.webelement.WebElement (session="ed8f306002e58b35444bf9e3c3011622", element="0.5628789332893998-4")>, <selenium.webdriver.remote.webelement.WebElement (session="ed8f306002e58b35444bf9e3c3011622", element="0.5628789332893998-5")>, <selenium.webdriver.remote.webelement.WebElement (session="ed8f306002e58b35444bf9e3c3011622", element="0.5628789332893998-6")>, <selenium.webdriver.remote.webelement.WebElement (session="ed8f306002e58b35444bf9e3c3011622", element="0.5628789332893998-7")>]
+
+Week35
+
+Week36
+
+Week37
+
+Week38
+------------------------
+ger, 2016-2017
+------------------------
+
+Week1
+
+Week2
+
+Week3
+
+Week4
+
+Week5
+
+Week6
+VfLWolfsburg vs FSVMainz | Missing Val: yellowcards
+Schalke vs BorussiaMonchengladbach | Missing Val: yellowcards
+
+Week7
+
+Week8
+
+Week9
+
+Week10
+
+Week11
+
+Week12
+BayernMunchen vs BayerLeverkusen | Missing Val: yellowcards
+
+Week13
+
+Week14
+
+Week15
+Augsburg vs BorussiaMonchengladbach | Missing Val: yellowcards
+
+Week16
+FCKoln vs BayerLeverkusen | Missing Val: yellowcards
+
+Week17
+
+Week18
+BayerLeverkusen vs BorussiaMonchengladbach | Missing Val: yellowcards
+
+Week19
+
+Week20
+
+Week21
+
+Week22
+RBLeipzig vs FCKoln | Missing Val: blocked
+
+Week23
+FSVMainz vs VfLWolfsburg | Missing Val: yellowcards
+
+Week24
+
+Week25
+FCKoln vs HerthaBerlin | Missing Val: blocked
+
+Week26
+
+Week27
+
+Week28
+
+Week29
+BorussiaDortmund vs EintrachtFrankfurt | Missing Val: yellowcards
+
+Week30
+Schalke vs RBLeipzig | Missing Val: saves
+
+Week31
+
+Week32
+EintrachtFrankfurt vs VfLWolfsburg | Missing Val: blocked
+
+Week33
+
+Week34
+------------------------
+fra, 2016-2017
+------------------------
+
+Week1
+Dijon vs Nantes | Missing Val: possession
+Dijon vs Nantes | Missing Val: offtarget
+
+Week2
+ParisSaintGermain vs Metz | Missing Val: shotsongoal
+
+Week3
+
+Week4
+
+Week5
+Nancy vs Nantes | Missing Val: yellowcards
+
+Week6
+Bastia vs Nancy | Missing Val: yellowcards
+Bastia vs Nancy | Missing Val: blocked
+
+Week7
+Bastia vs Guingamp | Missing Val: blocked
+
+Week8
+
+Week9
+
+Week10
+
+Week11
+
+Week12
+Angers vs Lille | Missing Val: yellowcards
+
+Week13
+Marseille vs Caen | Missing Val: saves
+
+Week14
+
+Week15
+
+Week16
+
+Week17
+
+Week18
+Guingamp vs ParisSaintGermain | Missing Val: yellowcards
+Nice vs Dijon | Missing Val: blocked
+Marseille vs Lille | Missing Val: yellowcards
+
+Week19
+Dijon vs Toulouse | Missing Val: blocked
+
+Week20
+Montpellier vs Dijon | Missing Val: yellowcards
+
+Week21
+
+Week22
+Angers vs Metz | Missing Val: yellowcards
+
+Week23
+
+Week24
+
+Week25
+SaintEtienne vs Lorient | Missing Val: yellowcards
+
+Week26
+
+Week27
+
+Week28
+
+Week29
+
+Week30
+Bordeaux vs Montpellier | Missing Val: yellowcards
+
+Week31
+
+Week32
+
+Week33
+
+Week34
+
+Week35
+Guingamp vs SaintEtienne | Missing Val: yellowcards
+
+Week36
+Guingamp vs Dijon | Missing Val: yellowcards
+
+Week37
+Metz vs Toulouse | Missing Val: yellowcards
+
+Week38
+Rennes vs Monaco | Missing Val: yellowcards
+
+eng, 2016-2017 | home: 380 | away: 380
+ita, 2016-2017 | home: 380 | away: 380
+esp, 2016-2017 | home: 380 | away: 380
+ger, 2016-2017 | home: 306 | away: 306
+fra, 2016-2017 | home: 380 | away: 380
+
+
+Total Errors: 72
+
+Missing Values:
+yellowcards: 40
+saves: 7
+shotsongoal: 8
+offtarget: 2
+tackles: 1
+dribbles: 1
+passsuccess: 1
+blocked: 9
+possession: 1

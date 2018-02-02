@@ -1,0 +1,588 @@
+------------------------
+eng, 2015-2016
+------------------------
+
+Week1
+
+Week2
+
+Week3
+
+Week4
+Check Data Exception: SwanseaCity vs ManchesterUnited | ['Tech Statistics', '    Kick-off  ', '    First Yellow Card  ', '  Last Yellow Card    ', '  First Substitution    ', '  Last Substitution    ', '35% Possession 65%', '16 Free Kicks 9', '6 Fouls 15', '9 Shots 11', '4 Shots on Goal 4', '4 Off Target 6', '0 Corner Kicks 1', '3 Offsides 1', '2 Yellow Cards 2', '3 Saves 2', '1 Blocked 1', '3 Substitutions 3', '0 Pass 2', '0 Pass Success 2']
+
+Week5
+
+Week6
+
+Week7
+Liverpool vs AstonVilla | Missing Val: yellowcards
+WestHamUnited vs NorwichCity | Missing Val: yellowcards
+
+Week8
+
+Week9
+
+Week10
+
+Week11
+
+Week12
+
+Week13
+Everton vs AstonVilla | Missing Val: yellowcards
+
+Week14
+
+Week15
+
+Week16
+CrystalPalace vs Southampton | Missing Val: yellowcards
+AstonVilla vs Arsenal | Missing Val: yellowcards
+Liverpool vs WestBromwich | Missing Val: yellowcards
+
+Week17
+NewcastleUnited vs AstonVilla | Missing Val: blocked
+
+Week18
+
+Week19
+WestBromwich vs NewcastleUnited | Missing Val: yellowcards
+
+Week20
+
+Week21
+
+Week22
+Southampton vs WestBromwich | Missing Val: yellowcards
+StokeCity vs Arsenal | Missing Val: yellowcards
+
+Week23
+ManchesterUnited vs Southampton | Missing Val: yellowcards
+
+Week24
+WestBromwich vs SwanseaCity | Missing Val: yellowcards
+
+Week25
+
+Week26
+
+Week27
+
+Week28
+BournemouthAFC vs Southampton | Missing Val: yellowcards
+
+Week29
+
+Week30
+AstonVilla vs TottenhamHotspur | Missing Val: yellowcards
+LeicesterCity vs NewcastleUnited | Missing Val: yellowcards
+
+Week31
+Everton vs Arsenal | Missing Val: yellowcards
+WestBromwich vs NorwichCity | Missing Val: saves
+
+Week32
+AstonVilla vs Chelsea | Missing Val: headtheball
+AstonVilla vs Chelsea | Missing Val: headsuccess
+AstonVilla vs Chelsea | Missing Val: tackles
+AstonVilla vs Chelsea | Missing Val: dribbles
+AstonVilla vs Chelsea | Missing Val: throwins
+AstonVilla vs Chelsea | Missing Val: pass
+AstonVilla vs Chelsea | Missing Val: passsuccess
+BournemouthAFC vs ManchesterCity | Missing Val: headtheball
+BournemouthAFC vs ManchesterCity | Missing Val: headsuccess
+BournemouthAFC vs ManchesterCity | Missing Val: tackles
+BournemouthAFC vs ManchesterCity | Missing Val: dribbles
+BournemouthAFC vs ManchesterCity | Missing Val: throwins
+BournemouthAFC vs ManchesterCity | Missing Val: pass
+BournemouthAFC vs ManchesterCity | Missing Val: passsuccess
+StokeCity vs SwanseaCity | Missing Val: headtheball
+StokeCity vs SwanseaCity | Missing Val: headsuccess
+StokeCity vs SwanseaCity | Missing Val: tackles
+StokeCity vs SwanseaCity | Missing Val: dribbles
+StokeCity vs SwanseaCity | Missing Val: throwins
+StokeCity vs SwanseaCity | Missing Val: pass
+StokeCity vs SwanseaCity | Missing Val: passsuccess
+SunderlandA.F.C vs WestBromwich | Missing Val: headtheball
+SunderlandA.F.C vs WestBromwich | Missing Val: headsuccess
+SunderlandA.F.C vs WestBromwich | Missing Val: tackles
+SunderlandA.F.C vs WestBromwich | Missing Val: dribbles
+SunderlandA.F.C vs WestBromwich | Missing Val: throwins
+SunderlandA.F.C vs WestBromwich | Missing Val: pass
+SunderlandA.F.C vs WestBromwich | Missing Val: passsuccess
+NorwichCity vs NewcastleUnited | Missing Val: yellowcards
+NorwichCity vs NewcastleUnited | Missing Val: headtheball
+NorwichCity vs NewcastleUnited | Missing Val: headsuccess
+NorwichCity vs NewcastleUnited | Missing Val: tackles
+NorwichCity vs NewcastleUnited | Missing Val: dribbles
+NorwichCity vs NewcastleUnited | Missing Val: throwins
+NorwichCity vs NewcastleUnited | Missing Val: pass
+NorwichCity vs NewcastleUnited | Missing Val: passsuccess
+Arsenal vs Watford | Missing Val: headtheball
+Arsenal vs Watford | Missing Val: headsuccess
+Arsenal vs Watford | Missing Val: tackles
+Arsenal vs Watford | Missing Val: dribbles
+Arsenal vs Watford | Missing Val: throwins
+Arsenal vs Watford | Missing Val: pass
+Arsenal vs Watford | Missing Val: passsuccess
+
+Week33
+Southampton vs NewcastleUnited | Missing Val: yellowcards
+
+Week34
+BournemouthAFC vs Liverpool | Missing Val: yellowcards
+
+Week35
+Could not find data for: http://www.nowgoal.com/detail/1130563.html
+ManchesterCity vs StokeCity | Missing Val: yellowcards
+NorwichCity vs Watford | Missing Val: possession
+
+Week36
+WestBromwich vs WestHamUnited | Missing Val: yellowcards
+
+Week37
+
+Week38
+Everton vs NorwichCity | Missing Val: yellowcards
+Chelsea vs LeicesterCity | Missing Val: yellowcards
+------------------------
+ita, 2015-2016
+------------------------
+
+Week1
+
+Week2
+
+Week3
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+
+Week8
+
+Week9
+
+Week10
+Napoli vs Palermo | Missing Val: yellowcards
+
+Week11
+
+Week12
+
+Week13
+
+Week14
+
+Week15
+
+Week16
+Sassuolo vs Torino | Missing Val: headtheball
+Sassuolo vs Torino | Missing Val: headsuccess
+Sassuolo vs Torino | Missing Val: tackles
+Sassuolo vs Torino | Missing Val: dribbles
+Sassuolo vs Torino | Missing Val: throwins
+Sassuolo vs Torino | Missing Val: pass
+Sassuolo vs Torino | Missing Val: passsuccess
+
+Week17
+
+Week18
+
+Week19
+Atalanta vs Genoa | Missing Val: saves
+
+Week20
+Could not find data for: http://www.nowgoal.com/detail/1160092.html
+Udinese vs Juventus | Missing Val: blocked
+
+Week21
+
+Week22
+Carpi vs Palermo | Missing Val: saves
+
+Week23
+
+Week24
+
+Week25
+
+Week26
+
+Week27
+
+Week28
+
+Week29
+
+Week30
+
+Week31
+Atalanta vs ACMilan | Missing Val: headtheball
+Atalanta vs ACMilan | Missing Val: headsuccess
+Atalanta vs ACMilan | Missing Val: tackles
+Atalanta vs ACMilan | Missing Val: dribbles
+Atalanta vs ACMilan | Missing Val: throwins
+Atalanta vs ACMilan | Missing Val: passsuccess
+
+Week32
+
+Week33
+
+Week34
+
+Week35
+
+Week36
+
+Week37
+
+Week38
+------------------------
+esp, 2015-2016
+------------------------
+
+Week1
+
+Week2
+
+Week3
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+
+Week8
+
+Week9
+
+Week10
+RealMadrid vs LasPalmas | Missing Val: blocked
+
+Week11
+AthleticBilbao vs RCDEspanyol | Missing Val: saves
+
+Week12
+RealBetis vs AtleticoMadrid | Missing Val: blocked
+
+Week13
+
+Week14
+
+Week15
+
+Week16
+
+Week17
+
+Week18
+RealBetis vs Eibar | Missing Val: blocked
+
+Week19
+
+Week20
+
+Week21
+
+Week22
+Could not find data for: http://www.nowgoal.com/detail/1149394.html
+DeportivoLaCoruna vs RayoVallecano | Missing Val: yellowcards
+
+Week23
+
+Week24
+FCBarcelona vs CeltaVigo | Missing Val: blocked
+
+Week25
+
+Week26
+
+Week27
+
+Week28
+
+Week29
+
+Week30
+
+Week31
+
+Week32
+
+Week33
+AtleticoMadrid vs GranadaCF | Missing Val: saves
+
+Week34
+AthleticBilbao vs AtleticoMadrid | Missing Val: yellowcards
+
+Week35
+Getafe vs Valencia | Missing Val: blocked
+
+Week36
+RealBetis vs FCBarcelona | Missing Val: possession
+RealBetis vs FCBarcelona | Missing Val: offtarget
+
+Week37
+
+Week38
+------------------------
+ger, 2015-2016
+------------------------
+
+Week1
+
+Week2
+Hannover96 vs BayerLeverkusen | Missing Val: yellowcards
+
+Week3
+VfLWolfsburg vs Schalke | Missing Val: headtheball
+VfLWolfsburg vs Schalke | Missing Val: headsuccess
+VfLWolfsburg vs Schalke | Missing Val: tackles
+VfLWolfsburg vs Schalke | Missing Val: dribbles
+VfLWolfsburg vs Schalke | Missing Val: throwins
+VfLWolfsburg vs Schalke | Missing Val: pass
+VfLWolfsburg vs Schalke | Missing Val: passsuccess
+Augsburg vs Ingolstadt | Missing Val: dribbles
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+
+Week8
+
+Week9
+
+Week10
+
+Week11
+EintrachtFrankfurt vs BayernMunchen | Missing Val: blocked
+HamburgerSV vs Hannover96 | Missing Val: yellowcards
+
+Week12
+BayernMunchen vs VfBStuttgart | Missing Val: yellowcards
+
+Week13
+HerthaBerlin vs TSGHoffenheim | Missing Val: saves
+
+Week14
+
+Week15
+
+Week16
+
+Week17
+Hannover96 vs BayernMunchen | Missing Val: yellowcards
+HerthaBerlin vs FSVMainz | Missing Val: yellowcards
+
+Week18
+
+Week19
+
+Week20
+
+Week21
+VfLWolfsburg vs Ingolstadt | Missing Val: yellowcards
+
+Week22
+
+Week23
+Augsburg vs BorussiaMonchengladbach | Missing Val: yellowcards
+BorussiaDortmund vs TSGHoffenheim | Missing Val: yellowcards
+
+Week24
+
+Week25
+
+Week26
+BorussiaDortmund vs FSVMainz | Missing Val: yellowcards
+
+Week27
+
+Week28
+BayerLeverkusen vs VfLWolfsburg | Missing Val: headtheball
+BayerLeverkusen vs VfLWolfsburg | Missing Val: headsuccess
+BayerLeverkusen vs VfLWolfsburg | Missing Val: tackles
+BayerLeverkusen vs VfLWolfsburg | Missing Val: dribbles
+BayerLeverkusen vs VfLWolfsburg | Missing Val: throwins
+BayernMunchen vs EintrachtFrankfurt | Missing Val: headtheball
+BayernMunchen vs EintrachtFrankfurt | Missing Val: headsuccess
+BayernMunchen vs EintrachtFrankfurt | Missing Val: tackles
+BayernMunchen vs EintrachtFrankfurt | Missing Val: dribbles
+BayernMunchen vs EintrachtFrankfurt | Missing Val: throwins
+BayernMunchen vs EintrachtFrankfurt | Missing Val: pass
+BayernMunchen vs EintrachtFrankfurt | Missing Val: passsuccess
+SVDarmstadt98 vs VfBStuttgart | Missing Val: headtheball
+SVDarmstadt98 vs VfBStuttgart | Missing Val: headsuccess
+SVDarmstadt98 vs VfBStuttgart | Missing Val: tackles
+SVDarmstadt98 vs VfBStuttgart | Missing Val: dribbles
+SVDarmstadt98 vs VfBStuttgart | Missing Val: throwins
+SVDarmstadt98 vs VfBStuttgart | Missing Val: pass
+SVDarmstadt98 vs VfBStuttgart | Missing Val: passsuccess
+Hannover96 vs HamburgerSV | Missing Val: headtheball
+Hannover96 vs HamburgerSV | Missing Val: headsuccess
+Hannover96 vs HamburgerSV | Missing Val: tackles
+Hannover96 vs HamburgerSV | Missing Val: dribbles
+Hannover96 vs HamburgerSV | Missing Val: throwins
+Hannover96 vs HamburgerSV | Missing Val: pass
+Hannover96 vs HamburgerSV | Missing Val: passsuccess
+FSVMainz vs Augsburg | Missing Val: headtheball
+FSVMainz vs Augsburg | Missing Val: headsuccess
+FSVMainz vs Augsburg | Missing Val: tackles
+FSVMainz vs Augsburg | Missing Val: dribbles
+FSVMainz vs Augsburg | Missing Val: throwins
+FSVMainz vs Augsburg | Missing Val: pass
+FSVMainz vs Augsburg | Missing Val: passsuccess
+
+Week29
+
+Week30
+BayernMunchen vs Schalke | Missing Val: yellowcards
+BorussiaDortmund vs HamburgerSV | Missing Val: yellowcards
+
+Week31
+
+Week32
+Hannover96 vs Schalke | Missing Val: yellowcards
+
+Week33
+HamburgerSV vs VfLWolfsburg | Missing Val: yellowcards
+
+Week34
+------------------------
+fra, 2015-2016
+------------------------
+
+Week1
+
+Week2
+Angers vs Nantes | Missing Val: blocked
+
+Week3
+
+Week4
+
+Week5
+
+Week6
+
+Week7
+
+Week8
+
+Week9
+
+Week10
+SaintEtienne vs AjaccioGfco | Missing Val: yellowcards
+
+Week11
+ParisSaintGermain vs SaintEtienne | Missing Val: yellowcards
+
+Week12
+Rennes vs ParisSaintGermain | Missing Val: yellowcards
+
+Week13
+Lorient vs Troyes | Missing Val: yellowcards
+
+Week14
+Montpellier vs Reims | Missing Val: blocked
+Rennes vs Bordeaux | Missing Val: blocked
+
+Week15
+
+Week16
+Montpellier vs AjaccioGfco | Missing Val: blocked
+
+Week17
+
+Week18
+Reims vs Nice | Missing Val: blocked
+ParisSaintGermain vs Lyon | Missing Val: blocked
+
+Week19
+
+Week20
+
+Week21
+
+Week22
+
+Week23
+
+Week24
+
+Week25
+
+Week26
+
+Week27
+
+Week28
+
+Week29
+
+Week30
+AjaccioGfco vs Caen | Missing Val: yellowcards
+Montpellier vs Nice | Missing Val: blocked
+
+Week31
+
+Week32
+Monaco vs Bordeaux | Missing Val: headtheball
+Monaco vs Bordeaux | Missing Val: headsuccess
+Monaco vs Bordeaux | Missing Val: blocked
+Monaco vs Bordeaux | Missing Val: tackles
+Monaco vs Bordeaux | Missing Val: dribbles
+Monaco vs Bordeaux | Missing Val: throwins
+Monaco vs Bordeaux | Missing Val: passsuccess
+Lorient vs Lyon | Missing Val: yellowcards
+
+Week33
+Nice vs Rennes | Missing Val: yellowcards
+
+Week34
+ParisSaintGermain vs Caen | Missing Val: yellowcards
+
+Week35
+
+Week36
+
+Week37
+Montpellier vs Rennes | Missing Val: yellowcards
+
+Week38
+
+eng, 2015-2016 | home: 379 | away: 379
+ita, 2015-2016 | home: 379 | away: 379
+esp, 2015-2016 | home: 379 | away: 379
+ger, 2015-2016 | home: 306 | away: 306
+fra, 2015-2016 | home: 380 | away: 380
+
+
+Total Errors: 178
+
+Missing Values:
+yellowcards: 47
+blocked: 16
+saves: 6
+headtheball: 15
+headsuccess: 15
+tackles: 15
+dribbles: 16
+throwins: 15
+pass: 12
+passsuccess: 14
+possession: 2
+offtarget: 1
