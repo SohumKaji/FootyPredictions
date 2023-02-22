@@ -1,5 +1,8 @@
 # FootyPredictions
 
+# Paper
+https://github.com/SohumKaji/FootyPredictions/blob/master/Capstone/Submissions/ProjectReport.pdf
+
 # About
 This project is a method to predict the final outcome of a football (soccer) game using historical data and halftime data. The techinques used are a Feedforward NN and a SGDClassifier. The data was collected using the code in this project from a variety of free resources. If you want to replicate this project for your own purposes, check out the Final Version (there is a script there to help you automatically set you on this way).
 
